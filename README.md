@@ -12,8 +12,9 @@ skills you'll learn with the dbc file:
 * Creating Random Forest models 
 * Creating Gradient Boosting models
 * Creating an Artifical Neural Newtork
-* Databricks ML flow trackiing system (Definilty you will have to look up. But in short stores models, parameters, and metrics)
+* Databricks ML flow trackiing system (You definilty will have to look up some of the code. But in short stores models, parameters, and metrics)
 * Databricks hyper opt library optimization
-* How to save a data to delta Lake
+* How to save a data table to delta Lake
+* One-Hot encoding (linear regression file)
 
-#### In the future I would like to find a way to show how to use shapely charts with Pyspark models. Shapely charts are very powerful in explaining a ML model. I will work on updating my notebooks.
+#### In the future I would like to find a way to show how to use shapely charts with Pyspark models. Shapely charts are very powerful in explaining a ML model. I will work on updating my notebooks with some Shapely charts in the future. 
